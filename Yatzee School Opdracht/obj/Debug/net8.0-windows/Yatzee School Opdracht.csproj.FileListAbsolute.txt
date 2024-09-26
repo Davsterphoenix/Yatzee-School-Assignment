@@ -1,0 +1,80 @@
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Yatzee School Opdracht.exe
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\1.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\2.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\3.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\4.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\5.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\6.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\Background.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\Empty.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\Enter.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\Halted.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\Locked.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\None.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\Null.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\Top_Null.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\Vast.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\Wacht.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Yatzee School Opdracht.deps.json
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Yatzee School Opdracht.runtimeconfig.json
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Yatzee School Opdracht.dll
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Yatzee School Opdracht.pdb
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht_Content.g.cs
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht_MarkupCompile.cache
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht_MarkupCompile.lref
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht.g.resources
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht.AssemblyInfoInputs.cache
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht.AssemblyInfo.cs
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht.csproj.CoreCompileInputs.cache
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht.dll
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\obj\Debug\net8.0-windows\refint\Yatzee School Opdracht.dll
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht.pdb
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht.genruntimeconfig.cache
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\obj\Debug\net8.0-windows\ref\Yatzee School Opdracht.dll
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\game.mp3
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\roll.wav
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\write.mp3
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Yatzee School Opdracht.exe
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\1.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\2.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\3.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\4.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\5.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\6.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\Background.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\Empty.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\Enter.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\Halted.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\Locked.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\None.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\Null.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\roll.wav
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\Top_Null.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\Vast.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\Wacht.png
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Assets\write.mp3
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht_Content.g.cs
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht_MarkupCompile.cache
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht_MarkupCompile.lref
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht.g.resources
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht.AssemblyInfoInputs.cache
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht.AssemblyInfo.cs
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht.csproj.CoreCompileInputs.cache
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht.sourcelink.json
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht.dll
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\obj\Debug\net8.0-windows\refint\Yatzee School Opdracht.dll
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht.pdb
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Yatzee School Opdracht.deps.json
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Yatzee School Opdracht.runtimeconfig.json
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Yatzee School Opdracht.dll
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\bin\Debug\net8.0-windows\Yatzee School Opdracht.pdb
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\obj\Debug\net8.0-windows\Yatzee School Opdracht.genruntimeconfig.cache
+C:\Users\daanv\source\repos\Yatzee School Opdracht\Yatzee-School-Assignment\Yatzee School Opdracht\obj\Debug\net8.0-windows\ref\Yatzee School Opdracht.dll
