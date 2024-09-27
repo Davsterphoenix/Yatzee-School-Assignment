@@ -35,8 +35,8 @@
             <Label x:Name="LowStraightLabel" Content="0" FontWeight="Bold" Margin="511,89,0,0" Height="23" Width="37"/>
             <Label x:Name="HighStraightLabel" Content="0" FontWeight="Bold" Margin="511,118,0,0" Height="23" Width="37"/>
             <Label x:Name="YahtzeeLabel" Content="0" FontWeight="Bold" Margin="511,147,0,0" Height="23" Width="37"/>
-            <Label x:Name="ChanceLabel" Content="0" FontWeight="Bold" Margin="511,176,0,0" Height="23" Width="37"/>
-            <Label x:Name="YahtzeeBonusLabel" Content="0" FontWeight="Bold" Margin="511,235,0,0" Height="23" Width="37"/>
+            <Label x:Name="YahtzeeBonusLabel" Content="0" FontWeight="Bold" Margin="511,176,0,0" Height="23" Width="37"/>
+            <Label x:Name="ChanceLabel" Content="0" FontWeight="Bold" Margin="511,235,0,0" Height="23" Width="37"/>
             <Label x:Name="LowerTotalLabel" Content="0" FontWeight="Bold" Margin="511,9994,0,0" Height="23" Width="37"/>
         </Grid>
 
@@ -45,12 +45,22 @@
 
 
 
-        <Grid>
+        <Grid x:Name="GuiEindopdracht">
+            <Label Foreground="Red" FontFamily="Arial" Grid.Column="1" Margin="20,-5,0,0" FontWeight="Bold" FontStyle="Italic" Content="Dit is een tekst met een lettertype, italic, en bold Arial"></Label>
+            <Label Foreground="White" FontFamily="Cascadia Mono" Grid.Column="1" Margin="20,10,0,0" FontWeight="Bold" FontStyle="Italic" Content="Dit is een tekst met een lettertype, italic, en bold Cascadia Mono" FontSize="20"></Label>
+            <Label Foreground="Blue" FontFamily="Ubuntu" Grid.Column="1" Margin="20,35,0,0" FontWeight="Bold" FontStyle="Italic" Content="Dit is een tekst met een lettertype, italic, en bold Ubuntu" FontSize="8"></Label>
+            <RadioButton Grid.Column="1"></RadioButton>
+            <RadioButton Grid.Column="1" Margin="0,20,0,0"></RadioButton>
+            <RadioButton Grid.Column="1" Margin="0,40,0,0"></RadioButton>
+            <Calendar Grid.Column="1" Margin="-650,300,0,0"></Calendar>
+            <DatePicker Grid.Column="0" ></DatePicker>
+            <ListBox Grid.Column="0" Margin="0,-250,0,0" Height="50"></ListBox>
+            <Label Content="Het scherm kan niet resizen omdat ik dit voor de huidige opdracht heb laten vallen" FontWeight="Bold" Margin="70,500,222,0" Grid.Column="1"></Label>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="30"></ColumnDefinition>
                 <ColumnDefinition></ColumnDefinition>
             </Grid.ColumnDefinitions>
-            <DatePicker Grid.Column="0" ></DatePicker>
+            
         </Grid>
         <Image x:Name="DobbelKnopHalted" Height="111" Source="/Assets/Halted.png" Stretch="Fill" Width="114" Margin="-445,-60,0,0"/>
         <Image x:Name="DobbelKnop" Height="111" Source="/Assets/Null.png" Stretch="Fill" Width="114" Margin="-445,-60,0,0"/>
@@ -100,6 +110,29 @@
             <Button Margin="530,-225,0,0" Height="15" Width="10" OpacityMask="Black" Background="#FF08FF00" Click="Count_And_Add_Only_Twos"/>
 
         </Grid>
-
+        <ComboBox Margin="804,-100,0,0" Height="100" Width="100">
+            <ComboBoxItem Content="Hallo!! ik ben Item 1"></ComboBoxItem>
+            <ComboBoxItem Content="Hallo!! ik ben Item 2"></ComboBoxItem>
+            <ComboBoxItem Content="Hallo!! ik ben Item 3"></ComboBoxItem>
+            <ComboBoxItem Content="Hallo!! ik ben Item 4"></ComboBoxItem>
+            <ComboBoxItem Content="Hallo!! ik ben Item 5"></ComboBoxItem>
+            <ComboBoxItem Content="Hallo!! ik ben Item 6"></ComboBoxItem>
+            <ComboBoxItem Content="Hallo!! ik ben Item 7"></ComboBoxItem>
+            <ComboBoxItem Content="Hallo!! ik ben Item 8"></ComboBoxItem>
+            <ComboBoxItem Content="Hallo!! ik ben Item 9"></ComboBoxItem>
+            <ComboBoxItem Content="Hallo!! ik ben Item 10"></ComboBoxItem>
+        </ComboBox>
+        <ComboBox Margin="804,122,0,0" Height="100" Width="100">
+            <ComboBoxItem Content="Hallo!! ik ben Item 1"></ComboBoxItem>
+            <ComboBoxItem Content="Hallo!! ik ben Item 2"></ComboBoxItem>
+            <ComboBoxItem Content="Hallo!! ik ben Item 3"></ComboBoxItem>
+            <ComboBoxItem Content="Hallo!! ik ben Item 4"></ComboBoxItem>
+            <ComboBoxItem Content="Hallo!! ik ben Item 5"></ComboBoxItem>
+            <ComboBoxItem Content="Hallo!! ik ben Item 6"></ComboBoxItem>
+            <ComboBoxItem Content="Hallo!! ik ben Item 7"></ComboBoxItem>
+            <ComboBoxItem Content="Hallo!! ik ben Item 8"></ComboBoxItem>
+            <ComboBoxItem Content="Hallo!! ik ben Item 9"></ComboBoxItem>
+            <ComboBoxItem Content="Hallo!! ik ben Item 10"></ComboBoxItem>
+        </ComboBox>
     </Grid>
 </Window>

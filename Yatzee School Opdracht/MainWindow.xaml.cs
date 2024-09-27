@@ -94,19 +94,35 @@ namespace Yatzee_School_Opdracht
 		public bool WeHaveDoneThisAlready12 = false;
 		public bool WeHaveDoneThisAlready13 = false;
 		public bool WeHaveDoneThisAlready14 = false;
+		public int Status_FirstSplash = 0;
 
 		public MainWindow()
-			
 		{
-			
-			//Setup();
-
+			//-------------------------****----------------------//
 		}
 
 		public void Setup()
 		{
+			if (Status_FirstSplash == 0)
+			{
+				var result = MessageBox.Show("Is dit de eindopdracht van GUI?", "Wacht!", MessageBoxButton.YesNo, MessageBoxImage.Question);
 
-			
+				if (result == MessageBoxResult.Yes)
+				{
+					//nothing
+					Status_FirstSplash++; InitializeComponent();
+					Width = 1000;
+					Height = 600;
+					EnterToets.Visibility = Visibility.Hidden; EnterToets.Margin = new Thickness(0,9999,0,0); Wachten.Visibility = Visibility.Hidden; Wachten.Margin = new Thickness(0, 9999, 0, 0); Background = Brushes.LightBlue;
+					canroll = false;
+
+				}
+				else
+				{
+					Grid GUIGRID = new Grid(); GUIGRID = FindName("GuiEindopdracht") as Grid; GUIGRID.Visibility = Visibility.Hidden; Status_FirstSplash++;
+				}
+			}
+
 			int TotalValue = Count_And_Add_Only_Aces_Score + Count_And_Add_Only_Twos_Score + Count_And_Add_Only_Threes_Score + Count_And_Add_Only_Fours_Score + Count_And_Add_Only_Fives_Score + Count_And_Add_Only_Sixes_Score + Three_Of_A_Kind_TotalAllDices_Score + Four_Of_A_Kind_TotalAllDices_Score + Full_House_25_Score + Low_Straight_30_Score + High_Straight_40_Score + Yahtzee_Score + Chance_Total_Of_All_Dices_Score + Yahtzee_Bonus_Score;
 			UpperTotalLabel.Content = TotalValue; int Bonus = 0; 
 

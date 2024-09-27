@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{193D215D-E28D-497D-8E5A-7E9012E9C61D}|Yatzee School Opdracht\\Yatzee School Opdracht.csproj|solutionrelative:yatzee school opdracht\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daanv\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{193D215D-E28D-497D-8E5A-7E9012E9C61D}|Yatzee School Opdracht\\Yatzee School Opdracht.csproj|c:\\users\\daanv\\source\\repos\\yatzee school opdracht\\yatzee-school-assignment\\yatzee school opdracht\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{193D215D-E28D-497D-8E5A-7E9012E9C61D}|Yatzee School Opdracht\\Yatzee School Opdracht.csproj|solutionrelative:yatzee school opdracht\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daanv\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daanv\\AppData\\Local\\Temp\\.vsdbgsrc\\329f3a7d0a8dec130abd973fcc4db1eb0b691ae509e93ba5ad536ac3ad443521\\Dispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -24,17 +24,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 267,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\daanv\\source\\repos\\Yatzee School Opdracht\\Yatzee-School-Assignment\\Yatzee School Opdracht\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Yatzee School Opdracht\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\daanv\\source\\repos\\Yatzee School Opdracht\\Yatzee-School-Assignment\\Yatzee School Opdracht\\MainWindow.xaml.cs",
               "RelativeToolTip": "Yatzee School Opdracht\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAJIDAAAAAAAAAAAuwLEDAAA+AAAA",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAgwHoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T10:44:34.68Z",
               "IsPinned": true,
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "XamlReader.cs",
               "DocumentMoniker": "C:\\Users\\daanv\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
